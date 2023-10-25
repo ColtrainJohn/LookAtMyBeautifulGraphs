@@ -1,4 +1,4 @@
-protein,Biological_regulation,Regulation_of_biological_process,Regulation_of_cellular_process,Cellular_process,Response_to_stimulus,Negative_regulation_of_biological_process,Metabolic_process,Organic_substance_metabolic_process,Regulation_of_metabolic_process,Negative_regulation_of_cellular_process,FC
+protein,Biological_regulation,Regulation_of_biological_process,Regulation_of_cellular_process,Cellular_process,Response_to_stimulus,Negative_regulation_of_biological_process,Metabolic_process,Organic_substance_metabolic_process,Regulation_of_metabolic_process,Negative_regulation_of_cellular_process,logFC
 A1BG,0,0,0,1,1,0,0,0,0,0,0.12444098345405585
 AMBP,1,1,1,1,0,1,1,1,1,1,0.10119979084901765
 APOA,1,1,1,1,0,1,1,1,1,1,-0.06245773789315656
